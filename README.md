@@ -7,7 +7,7 @@ what i do:
 - music technology (VST development, audio tools, hardware projects)
 - command line and system tools (bash, powershell)
 - scripting and automation (python, applescript)
-- game development (unity/c#, roblox/luau, lua and java modding)
+- game development (unity/c#, roblox/luau, lua and minecraft modding)
 - IT and infrastructure (servers, networking, hardware)
 
 ## languages
