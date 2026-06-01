@@ -1,12 +1,14 @@
-## hi
-im 17. im a student and i do code. 
+## hello!
+i'm 17 and a computer science student. i build software & websites, make music, and build things that probably didn't need to exist.
 
-- web development (javascript; learning react and electron too for web apps)
-- game development (c# for unity, luau for roblox, lua for modding games, java for modding 
-- software development (qt, c++, learning swift)
-- scripting and automation (python)
-- low level programming (rarer and less experienced but work with C/C++)
-- IT (server and network management, just more hardware focused stuff)
+what i do:
+- javascript (web development, react, discord.js, electron)
+- software development (c++, c, qt, currently learning swift)
+- music technology (VST development, audio tools, hardware projects)
+- command line and system tools (bash, powershell)
+- scripting and automation (python, applescript)
+- game development (unity/c#, roblox/luau, lua and java modding)
+- IT and infrastructure (servers, networking, hardware)
 
 ## languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
