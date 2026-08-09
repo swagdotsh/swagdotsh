@@ -58,51 +58,51 @@ these work once every blue moon so if this is empty uhhh idk what to tell you ma
 **🕒 I'm An Afternoon Warrior 🥷🏻**
 
 ```text
-🌅 Morning                171 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.33%
-🌞 Daytime                179 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.22%
-🌆 Evening                62 commits          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.62%
-🌙 Night                  12 commits          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.83%
+🌅 Morning                177 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.78%
+🌞 Daytime                180 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.47%
+🌆 Evening                65 commits          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.98%
+🌙 Night                  12 commits          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.76%
 ```
 
 **📅 I'm Most Productive on Friday**
 
 ```text
-Sunday                   27 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.37%
-Monday                   74 commits          🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.45%
-Tuesday                  55 commits          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.97%
-Wednesday                110 commits         🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.94%
-Thursday                 19 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.48%
-Friday                   122 commits         🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.77%
-Saturday                 17 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.01%
+Sunday                   27 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.22%
+Monday                   76 commits          🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.51%
+Tuesday                  57 commits          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.13%
+Wednesday                110 commits         🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.35%
+Thursday                 19 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.38%
+Friday                   122 commits         🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.11%
+Saturday                 23 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.30%
 ```
 
 **🔥 I Mostly Code in Python**
 
 ```text
-Python                   9 repos             🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.14%
-HTML                     8 repos             🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.57%
-JavaScript               4 repos             🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.29%
-Java                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.57%
-C                        1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.57%
-C++                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.57%
-GLSL                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.57%
-CSS                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.57%
-Makefile                 1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.57%
-TeX                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.57%
+Python                   9 repos             🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.03%
+HTML                     8 repos             🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.59%
+JavaScript               4 repos             🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.79%
+C++                      2 repos             🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.90%
+Java                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.45%
+GLSL                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.45%
+CSS                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.45%
+Makefile                 1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.45%
+TeX                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.45%
+C                        1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.45%
 ```
 
 **💬 Languages & Tools**
 
-![HTML](https://img.shields.io/badge/HTML-30.86%25-e34c26?&logo=HTML&labelColor=151b23)
-![TeX](https://img.shields.io/badge/TeX-24.08%25-3D6117?&logo=TeX&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-16.94%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![C](https://img.shields.io/badge/C-12.08%25-555555?&logo=C&labelColor=151b23)
-![Makefile](https://img.shields.io/badge/Makefile-05.24%25-427819?&logo=Makefile&labelColor=151b23)
-![Python](https://img.shields.io/badge/Python-03.14%25-3572A5?&logo=Python&labelColor=151b23)
-![CMake](https://img.shields.io/badge/CMake-03.02%25-DA3434?&logo=CMake&labelColor=151b23)
-![C++](https://img.shields.io/badge/C++-02.29%25-f34b7d?&logo=C++&labelColor=151b23)
-![CSS](https://img.shields.io/badge/CSS-01.62%25-663399?&logo=CSS&labelColor=151b23)
-![GLSL](https://img.shields.io/badge/GLSL-00.63%25-5686a5?&logo=GLSL&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-30.10%25-e34c26?&logo=HTML&labelColor=151b23)
+![TeX](https://img.shields.io/badge/TeX-23.44%25-3D6117?&logo=TeX&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-16.87%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![C](https://img.shields.io/badge/C-11.75%25-555555?&logo=C&labelColor=151b23)
+![Makefile](https://img.shields.io/badge/Makefile-05.10%25-427819?&logo=Makefile&labelColor=151b23)
+![Python](https://img.shields.io/badge/Python-04.71%25-3572A5?&logo=Python&labelColor=151b23)
+![CMake](https://img.shields.io/badge/CMake-02.95%25-DA3434?&logo=CMake&labelColor=151b23)
+![C++](https://img.shields.io/badge/C++-02.79%25-f34b7d?&logo=C++&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-01.58%25-663399?&logo=CSS&labelColor=151b23)
+![GLSL](https://img.shields.io/badge/GLSL-00.61%25-5686a5?&logo=GLSL&labelColor=151b23)
 ![Java](https://img.shields.io/badge/Java-00.08%25-b07219?&logo=Java&labelColor=151b23)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00.02%25-3178c6?&logo=TypeScript&labelColor=151b23)
 ![Batchfile](https://img.shields.io/badge/Batchfile-00.01%25-C1F12E?&logo=Batchfile&labelColor=151b23)
@@ -134,7 +134,7 @@ Mac                      8 hrs 32 mins       🟩🟩🟩🟩🟩🟩🟩🟩�
 
 
 
-⏳ *Last updated on 2026-08-08 00:37:19 +0000*
+⏳ *Last updated on 2026-08-09 00:39:24 +0000*
 <!--END_SECTION:readme-stats-->
 
 
