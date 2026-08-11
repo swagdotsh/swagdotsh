@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img width="750" height="250" alt="you can find more of my content on swagrelated.com" src="https://github.com/user-attachments/assets/e748f6f7-1d5c-48cc-b94e-4e663cc89a9a" />
-</h1>
+<img width="750" height="100" alt="Untitled design-13" src="https://github.com/user-attachments/assets/7494c333-7c98-417b-b067-d862ce30655e" />
 
 # hi, I'm adonis! 
 
