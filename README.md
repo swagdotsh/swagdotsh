@@ -94,11 +94,11 @@ Python                   9 repos             🟩🟩🟩🟩🟩🟩🟩🟨⬜
 HTML                     8 repos             🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.81%
 JavaScript               5 repos             🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.13%
 C++                      3 repos             🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.68%
-GLSL                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23%
-CSS                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23%
+C                        1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23%
 TeX                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23%
 Java                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23%
-C                        1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23%
+GLSL                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23%
+CSS                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23%
 Makefile                 1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.23%
 ```
 
@@ -175,7 +175,7 @@ Mac                      23 hrs 52 mins      🟩🟩🟩🟩🟩🟩🟩🟩�
 
 
 
-⏳ *Last updated on 2026-09-06 01:24:47 +0000*
+⏳ *Last updated on 2026-09-07 01:23:08 +0000*
 <!--END_SECTION:readme-stats-->
 
 > *i'd rather go 0-for-30 than 0-for-9 because if you go 0-9, that means you stopped shooting. that means you lost confidence.*
