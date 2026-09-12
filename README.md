@@ -8,14 +8,14 @@ i'm interested in pretty much anything that involves code, computers, audio, or 
 
 ## what i do
 
-- **software development** — C++, C, Qt, Swift
-- **web development** — JavaScript, TypeScript, React, Node.js
-- **music technology** — VSTs, audio software, music production, hardware
-- **game development** — Unity/C#, Roblox/Luau, Lua, Minecraft modding
-- **system & CLI tools** — Bash, PowerShell
-- **scripting & automation** — Python, AppleScript
-- **IT & infrastructure** — servers, networking, hardware
-- **general tinkering** — if it involves a computer, i'll probably try to build something with it
+- **software development** - C++, C, Qt, Swift
+- **web development** - JavaScript, TypeScript, React, Node.js
+- **music technology** - VSTs, audio software, music production, hardware
+- **game development** - Unity/C#, Roblox/Luau, Lua, Minecraft modding
+- **system & CLI tools** - Bash, PowerShell
+- **scripting & automation** - Python, AppleScript
+- **IT & infrastructure** - servers, networking, hardware
+- **general tinkering** - if it involves a computer, i'll probably try to build something with it
 
 ## languages
 
