@@ -87,37 +87,37 @@ Friday                   127 commits         🟩🟩🟩🟩🟩🟨⬜⬜⬜�
 Saturday                 27 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.99%
 ```
 
-**🔥 I Mostly Code in HTML**
+**🔥 I Mostly Code in Python**
 
 ```text
-HTML                     9 repos             🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.68%
 Python                   9 repos             🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.68%
+HTML                     9 repos             🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.68%
 JavaScript               7 repos             🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.42%
 C++                      4 repos             🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.53%
 Swift                    2 repos             🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.26%
-C                        1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63%
-Makefile                 1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63%
 C#                       1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63%
 Java                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63%
 GLSL                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63%
+Makefile                 1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63%
+C                        1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63%
 CSS                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63%
 TeX                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63%
 ```
 
 **💬 Languages & Tools**
 
-![C++](https://img.shields.io/badge/C++-76.22%25-f34b7d?&logo=C++&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-05.22%25-e34c26?&logo=HTML&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-04.02%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![TeX](https://img.shields.io/badge/TeX-03.97%25-3D6117?&logo=TeX&labelColor=151b23)
-![Python](https://img.shields.io/badge/Python-02.52%25-3572A5?&logo=Python&labelColor=151b23)
-![Swift](https://img.shields.io/badge/Swift-02.46%25-F05138?&logo=Swift&labelColor=151b23)
-![CMake](https://img.shields.io/badge/CMake-02.09%25-DA3434?&logo=CMake&labelColor=151b23)
-![C](https://img.shields.io/badge/C-02.03%25-555555?&logo=C&labelColor=151b23)
-![Makefile](https://img.shields.io/badge/Makefile-00.86%25-427819?&logo=Makefile&labelColor=151b23)
-![CSS](https://img.shields.io/badge/CSS-00.38%25-663399?&logo=CSS&labelColor=151b23)
-![GLSL](https://img.shields.io/badge/GLSL-00.11%25-5686a5?&logo=GLSL&labelColor=151b23)
-![C#](https://img.shields.io/badge/C#-00.05%25-7355dd?&logo=C#&labelColor=151b23)
+![C++](https://img.shields.io/badge/C++-77.37%25-f34b7d?&logo=C++&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-04.78%25-e34c26?&logo=HTML&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-03.68%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![TeX](https://img.shields.io/badge/TeX-03.64%25-3D6117?&logo=TeX&labelColor=151b23)
+![Python](https://img.shields.io/badge/Python-02.85%25-3572A5?&logo=Python&labelColor=151b23)
+![Swift](https://img.shields.io/badge/Swift-02.25%25-F05138?&logo=Swift&labelColor=151b23)
+![CMake](https://img.shields.io/badge/CMake-02.20%25-DA3434?&logo=CMake&labelColor=151b23)
+![C](https://img.shields.io/badge/C-01.86%25-555555?&logo=C&labelColor=151b23)
+![Makefile](https://img.shields.io/badge/Makefile-00.79%25-427819?&logo=Makefile&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-00.35%25-663399?&logo=CSS&labelColor=151b23)
+![GLSL](https://img.shields.io/badge/GLSL-00.10%25-5686a5?&logo=GLSL&labelColor=151b23)
+![C#](https://img.shields.io/badge/C#-00.04%25-7355dd?&logo=C#&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.03%25-89e051?&logo=Shell&labelColor=151b23)
 ![Assembly](https://img.shields.io/badge/Assembly-00.03%25-6E4C13?&logo=Assembly&labelColor=151b23)
 ![Java](https://img.shields.io/badge/Java-00.01%25-b07219?&logo=Java&labelColor=151b23)
@@ -163,7 +163,7 @@ Windows                  1 hr 17 mins        🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜
 
 
 
-⏳ *Last updated on 2026-10-11 02:20:17 +0000*
+⏳ *Last updated on 2026-10-12 02:44:48 +0000*
 <!--END_SECTION:readme-stats-->
 
 > *i'd rather go 0-for-30 than 0-for-9 because if you go 0-9, that means you stopped shooting. that means you lost confidence.*
