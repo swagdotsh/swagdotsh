@@ -95,27 +95,27 @@ Python                   9 repos             🟩🟩🟩🟩🟩🟨⬜⬜⬜�
 JavaScript               7 repos             🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.95%
 C++                      4 repos             🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.26%
 Swift                    3 repos             🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.69%
-Makefile                 1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
-Java                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
 C                        1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
 GLSL                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
-CSS                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
-TeX                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
 C#                       1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
+Java                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
+CSS                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
+Makefile                 1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
+TeX                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
 ```
 
 **💬 Languages & Tools**
 
-![C++](https://img.shields.io/badge/C++-78.17%25-f34b7d?&logo=C++&labelColor=151b23)
-![Python](https://img.shields.io/badge/Python-04.11%25-3572A5?&logo=Python&labelColor=151b23)
-![Swift](https://img.shields.io/badge/Swift-03.91%25-F05138?&logo=Swift&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-03.60%25-e34c26?&logo=HTML&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-02.78%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![TeX](https://img.shields.io/badge/TeX-02.74%25-3D6117?&logo=TeX&labelColor=151b23)
-![CMake](https://img.shields.io/badge/CMake-02.20%25-DA3434?&logo=CMake&labelColor=151b23)
-![C](https://img.shields.io/badge/C-01.40%25-555555?&logo=C&labelColor=151b23)
-![Makefile](https://img.shields.io/badge/Makefile-00.60%25-427819?&logo=Makefile&labelColor=151b23)
-![CSS](https://img.shields.io/badge/CSS-00.26%25-663399?&logo=CSS&labelColor=151b23)
+![C++](https://img.shields.io/badge/C++-78.53%25-f34b7d?&logo=C++&labelColor=151b23)
+![Python](https://img.shields.io/badge/Python-04.23%25-3572A5?&logo=Python&labelColor=151b23)
+![Swift](https://img.shields.io/badge/Swift-03.78%25-F05138?&logo=Swift&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-03.49%25-e34c26?&logo=HTML&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-02.69%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![TeX](https://img.shields.io/badge/TeX-02.65%25-3D6117?&logo=TeX&labelColor=151b23)
+![CMake](https://img.shields.io/badge/CMake-02.23%25-DA3434?&logo=CMake&labelColor=151b23)
+![C](https://img.shields.io/badge/C-01.36%25-555555?&logo=C&labelColor=151b23)
+![Makefile](https://img.shields.io/badge/Makefile-00.58%25-427819?&logo=Makefile&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-00.25%25-663399?&logo=CSS&labelColor=151b23)
 ![GLSL](https://img.shields.io/badge/GLSL-00.09%25-5686a5?&logo=GLSL&labelColor=151b23)
 ![C#](https://img.shields.io/badge/C#-00.03%25-7355dd?&logo=C#&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.03%25-89e051?&logo=Shell&labelColor=151b23)
@@ -159,7 +159,7 @@ Windows                  1 hr 11 mins        🟩🟩🟩🟩🟩🟨⬜⬜⬜�
 
 
 
-⏳ *Last updated on 2026-10-17 01:41:45 +0000*
+⏳ *Last updated on 2026-10-18 01:37:45 +0000*
 <!--END_SECTION:readme-stats-->
 
 > *i'd rather go 0-for-30 than 0-for-9 because if you go 0-9, that means you stopped shooting. that means you lost confidence.*
