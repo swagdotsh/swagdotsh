@@ -69,22 +69,22 @@ i'm interested in pretty much anything that involves code, computers, audio, or 
 **🕒 I'm An Afternoon Warrior 🥷🏻**
 
 ```text
-🌅 Morning                230 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.82%
-🌞 Daytime                239 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.45%
-🌆 Evening                69 commits          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.55%
-🌙 Night                  12 commits          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.18%
+🌅 Morning                231 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.10%
+🌞 Daytime                239 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.53%
+🌆 Evening                72 commits          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.81%
+🌙 Night                  20 commits          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.56%
 ```
 
 **📅 I'm Most Productive on Wednesday**
 
 ```text
-Sunday                   31 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.64%
-Monday                   100 commits         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.18%
-Tuesday                  92 commits          🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.73%
-Wednesday                144 commits         🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.18%
-Thursday                 29 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.27%
-Friday                   127 commits         🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.09%
-Saturday                 27 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.91%
+Sunday                   33 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.87%
+Monday                   102 commits         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.15%
+Tuesday                  100 commits         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.79%
+Wednesday                144 commits         🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.62%
+Thursday                 29 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.16%
+Friday                   127 commits         🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.60%
+Saturday                 27 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.80%
 ```
 
 **🔥 I Mostly Code in HTML**
@@ -95,27 +95,27 @@ Python                   9 repos             🟩🟩🟩🟩🟩🟨⬜⬜⬜�
 JavaScript               7 repos             🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.95%
 C++                      4 repos             🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.26%
 Swift                    3 repos             🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.69%
-Java                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
+C#                       1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
 C                        1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
+Makefile                 1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
+GLSL                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
 CSS                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
 TeX                      1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
-C#                       1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
-GLSL                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
-Makefile                 1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
+Java                     1 repo              🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.56%
 ```
 
 **💬 Languages & Tools**
 
-![C++](https://img.shields.io/badge/C++-79.41%25-f34b7d?&logo=C++&labelColor=151b23)
-![Python](https://img.shields.io/badge/Python-04.35%25-3572A5?&logo=Python&labelColor=151b23)
-![Swift](https://img.shields.io/badge/Swift-03.53%25-F05138?&logo=Swift&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-03.25%25-e34c26?&logo=HTML&labelColor=151b23)
-![JavaScript](https://img.shields.io/badge/JavaScript-02.51%25-f1e05a?&logo=JavaScript&labelColor=151b23)
-![TeX](https://img.shields.io/badge/TeX-02.47%25-3D6117?&logo=TeX&labelColor=151b23)
-![CMake](https://img.shields.io/badge/CMake-02.23%25-DA3434?&logo=CMake&labelColor=151b23)
-![C](https://img.shields.io/badge/C-01.27%25-555555?&logo=C&labelColor=151b23)
-![Makefile](https://img.shields.io/badge/Makefile-00.54%25-427819?&logo=Makefile&labelColor=151b23)
-![CSS](https://img.shields.io/badge/CSS-00.24%25-663399?&logo=CSS&labelColor=151b23)
+![C++](https://img.shields.io/badge/C++-79.70%25-f34b7d?&logo=C++&labelColor=151b23)
+![Python](https://img.shields.io/badge/Python-04.49%25-3572A5?&logo=Python&labelColor=151b23)
+![Swift](https://img.shields.io/badge/Swift-03.33%25-F05138?&logo=Swift&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-03.09%25-e34c26?&logo=HTML&labelColor=151b23)
+![JavaScript](https://img.shields.io/badge/JavaScript-02.72%25-f1e05a?&logo=JavaScript&labelColor=151b23)
+![TeX](https://img.shields.io/badge/TeX-02.33%25-3D6117?&logo=TeX&labelColor=151b23)
+![CMake](https://img.shields.io/badge/CMake-02.22%25-DA3434?&logo=CMake&labelColor=151b23)
+![C](https://img.shields.io/badge/C-01.20%25-555555?&logo=C&labelColor=151b23)
+![Makefile](https://img.shields.io/badge/Makefile-00.51%25-427819?&logo=Makefile&labelColor=151b23)
+![CSS](https://img.shields.io/badge/CSS-00.22%25-663399?&logo=CSS&labelColor=151b23)
 ![GLSL](https://img.shields.io/badge/GLSL-00.08%25-5686a5?&logo=GLSL&labelColor=151b23)
 ![C#](https://img.shields.io/badge/C#-00.03%25-7355dd?&logo=C#&labelColor=151b23)
 ![Shell](https://img.shields.io/badge/Shell-00.03%25-89e051?&logo=Shell&labelColor=151b23)
@@ -159,7 +159,7 @@ Windows                  1 hr 11 mins        🟩🟩🟩🟩🟩🟨⬜⬜⬜�
 
 
 
-⏳ *Last updated on 2026-10-19 01:55:40 +0000*
+⏳ *Last updated on 2026-10-20 02:13:22 +0000*
 <!--END_SECTION:readme-stats-->
 
 > *i'd rather go 0-for-30 than 0-for-9 because if you go 0-9, that means you stopped shooting. that means you lost confidence.*
